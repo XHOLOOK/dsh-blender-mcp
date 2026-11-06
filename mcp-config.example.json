@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "blender": {
+      "command": "D:\\Blender\\5.2\\python\\bin\\python.exe",
+      "args": [
+        "D:\\Dump\\blender-mcp\\server.py"
+      ],
+      "env": {
+        "BLENDER_EXE": "D:\\Blender\\blender.exe"
+      }
+    }
+  }
+}
